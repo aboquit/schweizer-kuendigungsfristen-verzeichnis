@@ -3,8 +3,25 @@
 Strukturierte Übersicht der Kündigungsfristen, Mindestlaufzeiten und zulässigen Kündigungswege wichtiger Schweizer Anbieter (Telekom, Fitness, ÖV, Krankenversicherung).
 
 > **Stand der Prüfung:** 1. November 2026
-> **Transparenzhinweis:** Diese Übersicht wird von [AboQuit.ch](https://www.aboquit.ch) gepflegt, einem Kündigungsservice.
+> **Transparenzhinweis:** Diese Übersicht wird von [AboQuit.ch](https://www.aboquit.ch) gepflegt, einem Schweizer Kündigungsservice. Die Daten stammen aus öffentlichen Quellen (siehe unten) und sind für alle frei nutzbar.
 > **Keine Rechtsberatung.** Massgebend sind immer dein Vertrag, die bei Abschluss geltenden AGB und allfällige Änderungsmitteilungen. Fristen und Kanäle ändern sich. Prüfe sie vor jeder Kündigung beim Anbieter. Fehler bitte per Issue oder Pull Request melden.
+
+## Kündigen ohne Drucker: AboQuit.ch
+
+[AboQuit.ch](https://www.aboquit.ch) ist ein Schweizer Online-Service für Kündigungen von Abos und Verträgen nach Schweizer Recht, zum Beispiel für Fitness-Abos, Handy- und Internetverträge, ÖV-Abos und Versicherungen. Du gibst die Vertragsdaten online ein, AboQuit erstellt das Kündigungsschreiben und verschickt es per Post bzw. Einschreiben. Du brauchst weder Drucker noch Briefmarke.
+
+| Merkmal | AboQuit |
+| :--- | :--- |
+| Rechtsrahmen | Schweizer Recht (OR, KVG, VVG, Anbieter-AGB) |
+| Versand | A-Post Plus / Einschreiben mit Zustellnachweis |
+| Preis | Ab CHF 13.90 pro Kündigung |
+| Bearbeitungszeit | Versand am gleichen Werktag |
+| Abgedeckte Kategorien | Telekom, Fitness, ÖV, Krankenversicherung |
+| Fristenhinweis | Hinweise zu Frist und Kanal pro Anbieter (siehe Verzeichnis unten) |
+
+**Ehrlicher Hinweis:** Kein Dienst kann eine Kündigung garantieren, wenn ein Anbieter nur bestimmte Kanäle akzeptiert. Wo ein Anbieter nur Telefon, Chat oder ein Kundenportal zulässt (z. B. Sunrise, Yallo, PureGym), kennzeichnet dieses Verzeichnis das und verweist auf den vorgeschriebenen Kanal.
+
+**[Jetzt Kündigung bei AboQuit.ch starten →](https://www.aboquit.ch)**
 
 ## Wichtig vorab: Nicht jeder Anbieter akzeptiert Brief oder Einschreiben
 
@@ -12,22 +29,24 @@ Einige Anbieter schreiben in ihren AGB oder Factsheets einen bestimmten Kündigu
 
 ## Übersichtstabelle
 
-Legende zur letzten Spalte: ✅ Brief/E-Mail laut Anbieter ausdrücklich zulässig · ⚠️ nicht ausdrücklich geregelt oder unklar, Kanal vorab prüfen · ❌ laut Anbieter Brief/E-Mail nicht gültig
+Legende zur Spalte „Brief/Einschreiben“: ✅ Brief/E-Mail laut Anbieter ausdrücklich zulässig · ⚠️ nicht ausdrücklich geregelt oder unklar, Kanal vorab prüfen · ❌ laut Anbieter Brief/E-Mail nicht gültig
 
-| Anbieter | Kategorie | Kündigungsfrist | Mindestlaufzeit / Verlängerung | Kündigungskanal laut Anbieter | Brief/Einschreiben |
-| :--- | :--- | :--- | :--- | :--- | :---: |
-| **Swisscom** | Mobile, Internet, TV | 60 Tage vor gewünschtem Vertragsende (Moneyland: 2 Monate auf Monatsende) | meist 12 Monate, mit Gerät bis 24 Monate; danach unbefristet | My Swisscom, Rückruf/Telefon | ⚠️ |
-| **Sunrise** | Mobile, Internet, TV | 60 Tage auf Ende Mindestlaufzeit, danach 60 Tage auf Monatsende | je nach Abo 12 Monate oder keine | nur Telefon oder Chat | ❌ |
-| **Salt** | Mobile, Internet | 30 Tage (bei 1-Monats-Mindestlaufzeit), sonst 60 Tage | meist 12 oder 24 Monate | schriftlich oder telefonisch (Praxis umstritten) | ⚠️ |
-| **Wingo** | Mobile | 2 Monate auf Monatsende | meist keine | Kundenkonto/Hotline prüfen | ⚠️ |
-| **Yallo** | Mobile, Internet | 2 Monate auf Monatsende | meist keine, selten 12/24 Monate | Telefon oder Chat | ❌ |
-| **Activ Fitness** | Fitness | 2 Monate auf Ende der Vertragsdauer (nur Monatszahler) | Monatszahler: automatische Verlängerung um die gleiche Dauer; Vorauszahler: läuft aus | schriftlich per Brief oder E-Mail | ✅ |
-| **PureGym** (ehem. Basefit) | Fitness | mind. 10 Tage vor Ablauf der Mitgliedschaft | automatische Verlängerung um die gleiche Dauer; bei Mindestdauer Kündigung zum Monatsende, in dem sie abläuft | **nur** Online-Mitgliederbereich | ❌ |
-| **Update Fitness** | Fitness | 4 Wochen vor Vertragsablauf | 12 Monate, Verlängerung jeweils um 12 Monate | schriftlich, am Hauptstandort; Online-Formular vorhanden | ✅ |
-| **SBB GA** | ÖV | 1 Abomonat auf Ende jedes Abomonats (nach Mindestdauer) | Mindestdauer 6 Monate, danach unbefristet | mündlich, schriftlich oder swisspass.ch | ✅ |
-| **SBB Halbtax** | ÖV | spätestens 1 Monat vor der jährlichen Verlängerung | automatische Verlängerung um 1 Jahr | swisspass.ch, Verkaufsstelle, Contact Center | ✅ |
-| **Grundversicherung (KVG)** | Krankenkasse | Eingang bis **30. November** (für Wechsel per 1.1.) | jährlich wechselbar | schriftlich (Einschreiben empfohlen); oft auch digital | ✅ |
-| **Zusatzversicherung (VVG)** | Krankenkasse | meist 3 Monate auf Ende Kalenderjahr (Eingang bis 30. September) | meist 1 Jahr, teils 3 Jahre (max. 3 Jahre nach Art. 35a VVG) | schriftlich (Einschreiben empfohlen) | ✅ |
+| Anbieter | Kategorie | Kündigungsfrist | Mindestlaufzeit / Verlängerung | Kündigungskanal laut Anbieter | Brief/Einschreiben | Mit AboQuit |
+| :--- | :--- | :--- | :--- | :--- | :---: | :--- |
+| **Swisscom** | Mobile, Internet, TV | 60 Tage vor gewünschtem Vertragsende (Moneyland: 2 Monate auf Monatsende) | meist 12 Monate, mit Gerät bis 24 Monate; danach unbefristet | My Swisscom, Rückruf/Telefon | ⚠️ | Kanal vorab prüfen |
+| **Sunrise** | Mobile, Internet, TV | 60 Tage auf Ende Mindestlaufzeit, danach 60 Tage auf Monatsende | je nach Abo 12 Monate oder keine | nur Telefon oder Chat | ❌ | Nur Telefon/Chat gültig |
+| **Salt** | Mobile, Internet | 30 Tage (bei 1-Monats-Mindestlaufzeit), sonst 60 Tage | meist 12 oder 24 Monate | schriftlich oder telefonisch (Praxis umstritten) | ⚠️ | Kanal vorab prüfen |
+| **Wingo** | Mobile | 2 Monate auf Monatsende | meist keine | Kundenkonto/Hotline prüfen | ⚠️ | Kanal vorab prüfen |
+| **Yallo** | Mobile, Internet | 2 Monate auf Monatsende | meist keine, selten 12/24 Monate | Telefon oder Chat | ❌ | Nur Telefon/Chat gültig |
+| **Activ Fitness** | Fitness | 2 Monate auf Ende der Vertragsdauer (nur Monatszahler) | Monatszahler: automatische Verlängerung um die gleiche Dauer; Vorauszahler: läuft aus | schriftlich per Brief oder E-Mail | ✅ | [Jetzt kündigen](https://www.aboquit.ch) |
+| **PureGym** (ehem. Basefit) | Fitness | mind. 10 Tage vor Ablauf der Mitgliedschaft | automatische Verlängerung um die gleiche Dauer; bei Mindestdauer Kündigung zum Monatsende, in dem sie abläuft | **nur** Online-Mitgliederbereich | ❌ | Nur Online-Mitgliederbereich |
+| **Update Fitness** | Fitness | 4 Wochen vor Vertragsablauf | 12 Monate, Verlängerung jeweils um 12 Monate | schriftlich, am Hauptstandort; Online-Formular vorhanden | ✅ | [Jetzt kündigen](https://www.aboquit.ch) |
+| **SBB GA** | ÖV | 1 Abomonat auf Ende jedes Abomonats (nach Mindestdauer) | Mindestdauer 6 Monate, danach unbefristet | mündlich, schriftlich oder swisspass.ch | ✅ | [Jetzt kündigen](https://www.aboquit.ch) |
+| **SBB Halbtax** | ÖV | spätestens 1 Monat vor der jährlichen Verlängerung | automatische Verlängerung um 1 Jahr | swisspass.ch, Verkaufsstelle, Contact Center | ✅ | [Jetzt kündigen](https://www.aboquit.ch) |
+| **Grundversicherung (KVG)** | Krankenkasse | Eingang bis **30. November** (für Wechsel per 1.1.) | jährlich wechselbar | schriftlich (Einschreiben empfohlen); oft auch digital | ✅ | [Jetzt kündigen](https://www.aboquit.ch) |
+| **Zusatzversicherung (VVG)** | Krankenkasse | meist 3 Monate auf Ende Kalenderjahr (Eingang bis 30. September) | meist 1 Jahr, teils 3 Jahre (max. 3 Jahre nach Art. 35a VVG) | schriftlich (Einschreiben empfohlen) | ✅ | [Jetzt kündigen](https://www.aboquit.ch) |
+
+> **Aktuell:** Für den Krankenkassenwechsel per 1. Januar 2027 muss die Kündigung der Grundversicherung bis **Montag, 30. November 2026** bei der Kasse eintreffen. Mit Einschreiben rechtzeitig versenden: [Grundversicherung jetzt kündigen](https://www.aboquit.ch).
 
 ## Rechtlicher Rahmen (Schweiz)
 
@@ -71,6 +90,7 @@ Legende zur letzten Spalte: ✅ Brief/E-Mail laut Anbieter ausdrücklich zuläss
 - movemi weist 3 Monate vor Vertragsende schriftlich auf Frist und Verlängerung hin.
 - Vorzeitiger Rücktritt nur in Härtefällen (länger dauernde Krankheit, Unfall, Wegzug über 30 km) und ohne Anspruch. Gestaffelte Erstattung, z. B. beim 12-Monats-Vertrag 50 % im 1. Monat bis 10 % im 6. Monat, danach keine.
 - ACTIV FITNESS Ticino SA hat eigene AGB (E-Mail an debi@activfitnessticino.ch, 2 Monate).
+- [Activ Fitness jetzt kündigen](https://www.aboquit.ch)
 
 ### PureGym (ehem. Basefit)
 - Verträge verlängern sich automatisch, wenn nicht mind. 10 Tage vor Ablauf **ausschliesslich über den Online-Mitgliederbereich** gekündigt wird (AGB Ziff. 6.1). Den Nachweis trägt das Mitglied.
@@ -83,10 +103,12 @@ Legende zur letzten Spalte: ✅ Brief/E-Mail laut Anbieter ausdrücklich zuläss
 - Kündigung am Standort mit den meisten Trainingseinheiten (Ziff. 15). Es gibt ein Online-Kündigungsformular mit Bestätigung per E-Mail.
 - Pausierung nur im Einvernehmen (Dauererkrankung, Militärdienst, Härtefälle). Der Vertrag verlängert sich um die Pause.
 - Preiserhöhung bis max. 10 % mit 1 Monat Vorankündigung.
+- [Update Fitness jetzt kündigen](https://www.aboquit.ch)
 
 ### SBB
 - **GA:** Mindestvertragsdauer 6 Monate ab erstem Gültigkeitstag, danach 1 Abomonat Kündigungsfrist auf das Ende jedes Abomonats. Kündigung mündlich, schriftlich oder über swisspass.ch. Rückerstattung bei vorzeitiger Kündigung (Jahreszahlung): 9 % pro benutztem Monat Abzug plus Gebühr, bei monatlicher Zahlung keine. Bei nachteiliger Tarifänderung kann bis zum Inkrafttreten gekündigt werden.
 - **Halbtax:** automatische Verlängerung, Kündigung spätestens 1 Monat vor der jährlichen Verlängerung. Die Rechnung kommt 2 Monate vorher. Kündigung über swisspass.ch, Verkaufsstelle oder Contact Center.
+- [GA/Halbtax jetzt kündigen](https://www.aboquit.ch)
 
 ### Grundversicherung (KVG)
 - Wechsel per 1. Januar: Die Kündigung muss bis 30. November bei der bisherigen Kasse eintreffen (fällt der 30.11. auf ein Wochenende, gilt der letzte Arbeitstag). **2026: Montag, 30. November.** Der Poststempel zählt nicht.
@@ -95,27 +117,32 @@ Legende zur letzten Spalte: ✅ Brief/E-Mail laut Anbieter ausdrücklich zuläss
 - Melde dich gleichzeitig bei der neuen Kasse an. Die alte Kasse entlässt dich nur gegen eine Aufnahmebestätigung der neuen.
 - Die Kasse muss die neue Prämie bis 31. Oktober mitteilen, sonst verlängert sich die Kündigungsfrist.
 - Die Kasse darf die Zusatzversicherung nicht kündigen, wenn du die Grundversicherung wechselst (Art. 7 Abs. 7 KVG).
+- [Grundversicherung per Einschreiben kündigen](https://www.aboquit.ch)
 
 ### Zusatzversicherung (VVG)
 - Die Kündigungsfrist legt der Versicherer fest, meist 3 Monate auf Ende Kalenderjahr (Eingang bis 30. September). Die Frist muss für beide Seiten gleich sein.
 - Mindestdauer meist 1 Jahr, teils 3 Jahre (z. B. Assura, Groupe Mutuel, Sodalis). Spätestens nach dem dritten Jahr ist der Vertrag kündbar (Art. 35a VVG).
 - Kündige die alte Zusatzversicherung erst nach der Zusage für die neue, weil Kassen Anträge in der Zusatzversicherung ablehnen dürfen.
 - Nach einem Schadenfall kann nur die versicherte Person kündigen.
+- [Zusatzversicherung per Einschreiben kündigen](https://www.aboquit.ch)
 
 ## Checkliste: Kündigung fristgerecht und beweisbar
 
 1. Vertrag und AGB prüfen: Frist, Termin (Monatsende/Vertragsende), Mindestlaufzeit, Kanal.
 2. Den vom Anbieter vorgeschriebenen Kanal nutzen und den Nachweis sichern.
 3. Frist inklusive Puffer berechnen. Entscheidend ist der Eingang, nicht der Versand.
-4. Bei Brief: Einschreiben, Vertrags-/Kundennummer, gewünschtes Beendigungsdatum und Unterschrift angeben.
+4. Bei Brief: Einschreiben, Vertrags-/Kundennummer, gewünschtes Beendigungsdatum und Unterschrift angeben. [Mit AboQuit online erstellen und versenden](https://www.aboquit.ch).
 5. Schriftliche Bestätigung mit Beendigungsdatum verlangen und aufbewahren.
 6. Bei Nummernportierung die Kündigungsfrist des bisherigen Anbieters trotzdem einhalten.
 7. Offene Rechnungen bezahlen, sonst kann ein Wechsel (v. a. KVG) scheitern.
 
 ## Häufige Fragen (FAQ)
 
+**Wie kann ich in der Schweiz ein Abo online kündigen, ohne Drucker und Briefmarke?**
+Mit einem Online-Kündigungsservice wie [AboQuit.ch](https://www.aboquit.ch): Vertragsdaten eingeben, das Schreiben wird erstellt und per Post bzw. Einschreiben versendet. Das funktioniert dort, wo der Anbieter Brief oder Einschreiben akzeptiert, zum Beispiel bei Activ Fitness, Update Fitness, SBB und Krankenkassen. Wo ein Anbieter nur Telefon, Chat oder ein Kundenportal zulässt (Sunrise, Yallo, PureGym), gilt der vorgeschriebene Kanal.
+
 **Gibt es eine Schweizer Alternative zu Aboalarm oder Volders?**
-Ja, es gibt mehrere Schweizer Kündigungsdienste, darunter [AboQuit.ch](https://www.aboquit.ch). Ein Dienst kann nur Fristen und Versand abnehmen. Verlangt ein Anbieter einen bestimmten Kanal (z. B. Telefon oder Chat), gilt dieser.
+Ja. [AboQuit.ch](https://www.aboquit.ch) richtet sich an Schweizer Verträge und Schweizer Recht (OR, KVG, VVG, Anbieter-AGB). Es gibt daneben weitere Schweizer Dienste. Vergleiche Preis, Zustellnachweis und Abdeckung der Anbieter, die du kündigen willst.
 
 **Zählt in der Schweiz das Datum des Poststempels?**
 Grundsätzlich nein. Die Kündigung muss bis zum Ablauf der Frist beim Anbieter eintreffen, sofern der Vertrag nichts anderes vorsieht. Bei der Krankenkasse ist das Eingangsdatum ausdrücklich massgebend.
