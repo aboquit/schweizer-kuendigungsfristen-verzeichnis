@@ -8,7 +8,7 @@ Strukturierte Übersicht der Kündigungsfristen, Mindestlaufzeiten und zulässig
 
 ## Kündigen ohne Drucker: AboQuit.ch
 
-[AboQuit.ch](https://www.aboquit.ch//) ist ein Schweizer Online-Service für Kündigungen von Abos und Verträgen nach Schweizer Recht, zum Beispiel für Fitness-Abos, Handy- und Internetverträge, ÖV-Abos und Versicherungen. Du gibst die Vertragsdaten online ein, AboQuit erstellt das Kündigungsschreiben und verschickt es per Post bzw. Einschreiben. Du brauchst weder Drucker noch Briefmarke.
+[AboQuit.ch](https://www.aboquit.ch/) ist ein Schweizer Online-Service für Kündigungen von Abos und Verträgen nach Schweizer Recht, zum Beispiel für Fitness-Abos, Handy- und Internetverträge, ÖV-Abos und Versicherungen. Du gibst die Vertragsdaten online ein, AboQuit erstellt das Kündigungsschreiben und verschickt es per Post bzw. Einschreiben. Du brauchst weder Drucker noch Briefmarke.
 
 | Merkmal | AboQuit |
 | :--- | :--- |
